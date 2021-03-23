@@ -1,0 +1,7 @@
+print("hello"+"world")
+print("hello","world")
+print("-------------------")
+name=input("请输入你的名字：")
+age=input("请输入你的年龄：")
+hobby=input("请输入你的爱好：")
+print("你的名字为："+name+",\n年龄是："+age+",\n爱好为："+hobby)
